@@ -37,6 +37,42 @@
     animation: clouds-animation 30s infinite linear;
 }
 
+.game-over {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0;
+}
+
+#game-over-button{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    margin-top: 110px;
+    border: black;
+    background: linear-gradient(#E0F6FF, #87CEEB); 
+    color: #000000; 
+    padding: 20px 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-family:monospace ;
+    font-size: larger;
+}
+
+#game-over-word{
+    position: absolute;
+    width: 500px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ff040400; /* Cor de fundo do botão */
+    padding: 20px 30px;
+    border: black;
+    border-radius: 15px;
+    font-family:monospace ;
+    font-size: larger;
+}
+
+
 
 @keyframes clouds-animation {
     from{
