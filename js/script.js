@@ -1,7 +1,7 @@
 const mario = document.querySelector('.mario')
 const pipe = document.querySelector('.pipe')
 const restart = document.querySelector('.game-over')
-const score = document.querySelector('.score')
+const score = document.querySelector('.score-n')
 
 const jump = () => {
     mario.classList.add('jump')
