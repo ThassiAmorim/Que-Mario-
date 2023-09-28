@@ -13,6 +13,14 @@
     overflow: hidden;
 }
 
+.score{
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size:xx-large;
+    font-family:monospace;
+}
+
+
 .pipe{
     position: absolute;
     bottom: 0;
@@ -36,6 +44,7 @@
     width: 550px;
     animation: clouds-animation 30s infinite linear;
 }
+
 
 .game-over {
     position: absolute;
