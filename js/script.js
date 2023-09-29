@@ -32,12 +32,11 @@ const loop = setInterval(() =>{
         restart.style.display = 'block'
 
         clearInterval(loop)
-
-
     }
-
-    n++
-    score.innerHTML = n
+    else if(pipePosition <= 120){
+        n++
+    }
+    score.innerHTML = parseInt(n/15)
 
 },10)
 
