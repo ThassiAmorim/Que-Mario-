@@ -21,6 +21,7 @@ index.html: Contém a estrutura HTML do jogo.
 style.css: Estilo e layout do jogo.
 script.js: Lógica e comportamento do jogo.
 
+
 ![image](https://github.com/ThassiAmorim/Que-Mario-/assets/62359485/88b826d8-343a-44dd-b1fe-fa9e467ad69a)
 
 ![image](https://github.com/ThassiAmorim/Que-Mario-/assets/62359485/c71e96d8-7bb4-4ef3-8f3c-4c807628cf13)
