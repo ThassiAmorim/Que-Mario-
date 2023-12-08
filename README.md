@@ -4,7 +4,6 @@ LINK: https://thassianaamorim.netlify.app/
 
 ### Instruções
 Pressione a tecla de espaço para fazer o Mario pular.
-Evite colidir com os canos.
 Evite colisões com os canos para manter o jogo em andamento.
 
 #### Funcionalidades
